@@ -48,7 +48,7 @@ export default function CartPage() {
   const total = subtotal - discountAmt;
 
   return (
-    <div className="max-w-6xl mx-auto px-4 md:px-6 pt-32 pb-20">
+    <div className="max-w-6xl mx-auto px-4 md:px-6 pt-2 pb-60">
       <h1 className="text-3xl font-bold mb-2">🛒 Your Cart</h1>
       <p className="text-green-700 mb-6">
         🌱 Average Eco Score: <strong>{averageEcoScore}</strong>
