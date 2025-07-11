@@ -3,8 +3,6 @@
 
 **GreenCart** is a full-stack eco-conscious e-commerce platform designed for daily essentials, inspired by Walmart. It helps users shop smarter and live greener by recommending products with better Eco Scores.
 
-![GreenCart Banner](https://res.cloudinary.com/dqb4rgzpq/image/upload/v1751973108/Greencart_website_which_is_a_online_shopping_platform_for_daily_essential._make_a_logo_in_white_colour_so_that_it_suits_blue_background-removebg-preview_jzqrg6.png))
-
 [🌐 View on GitHub »](https://github.com/adarshkrk6203/GreenCart_WalmartBased.git)
 
 ---
