@@ -37,7 +37,7 @@ export default function ProductDetail() {
   if (!product) return <div className="mt-36 text-center text-red-500">Product not found.</div>;
 
   return (
-    <div className="max-w-6xl mx-auto mt-36 p-6 font-['Roboto']">
+    <div className="max-w-6xl mx-auto pt-32 md:pt-0 p-20 font-['Roboto']">
       <div className="bg-white rounded-lg shadow-md p-6 flex flex-col md:flex-row gap-8">
         {/* Left: Product Image */}
         <img
